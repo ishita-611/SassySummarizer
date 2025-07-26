@@ -7,7 +7,7 @@ summarizer=pipeline("summarization",model="sshleifer/distilbart-cnn-12-6")
 sarcasm_generator=pipeline("text-generation","gpt2")
 
 def sassify_text(text):
-    summary=summarizer(text,max_length=150,min_length=30,do_sample=False)[0]['summary_text']
+    summary=summarizer(text,max_length=150,min_length=30,do_sample=False,truncation=True)[0]['summary_text']
 
     #prepare sarcastic prompt
     prompt=f"Rewrite this in a sarcastic and funny tone \n{summary}"
