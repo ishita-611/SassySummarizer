@@ -23,3 +23,13 @@ This AI-powered chatbot takes your dull, academic, or way-too-formal text and tr
    git clone https://github.com/yourusername/sassy-summarizer.git
    cd sassy-summarizer
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the app:
+   ```bash
+   python index.py
+   ```
+4. Your browser will open. Paste some boring text. Watch the magic happen.
+
