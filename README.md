@@ -1,10 +1,6 @@
 # SassySummarizer
 Ever read something so boring it made you question your will to live? **SassySummarizer** is here to fix that.
 
-# SassySummarizer 
-
-Ever read something so boring it made you question your will to live?  
-**SassySummarizer** is here to fix that.
 
 This AI-powered chatbot takes your dull, academic, or way-too-formal text and transforms it into a short, **funny**, and **sarcastic** rewrite. Built with Hugging Face Transformers and a splash of chaotic humor, this is your new favorite tool for study recaps, sarcastic emails (maybe don't), or just spicing things up.
 
