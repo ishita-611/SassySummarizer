@@ -10,7 +10,7 @@ This AI-powered chatbot takes your dull, academic, or way-too-formal text and tr
 -  **Sarcastifies** it using `GPT-2` and some clever prompting  
 -  **Interactive UI** built with Gradio
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [HuggingFace Transformers](https://huggingface.co/transformers/) – for BART & GPT-2 models  
 - [Gradio](https://gradio.app) – to serve a slick browser UI  
@@ -36,4 +36,4 @@ This AI-powered chatbot takes your dull, academic, or way-too-formal text and tr
 > ⚠️ **Heads up, mortal:**  
 > This snarky summarizer runs on transformers, and those divas need a **GPU** to slay.  
 > Run it on CPU if you *love waiting forever* (or watching your machine cry).  
-> Use a GPU for the real magic ✨
+> Use a GPU for the real magic
