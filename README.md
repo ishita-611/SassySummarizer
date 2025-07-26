@@ -33,3 +33,7 @@ This AI-powered chatbot takes your dull, academic, or way-too-formal text and tr
    ```
 4. Your browser will open. Paste some boring text. Watch the magic happen.
 
+> ⚠️ **Heads up, mortal:**  
+> This snarky summarizer runs on transformers, and those divas need a **GPU** to slay.  
+> Run it on CPU if you *love waiting forever* (or watching your machine cry).  
+> Use a GPU for the real magic ✨
